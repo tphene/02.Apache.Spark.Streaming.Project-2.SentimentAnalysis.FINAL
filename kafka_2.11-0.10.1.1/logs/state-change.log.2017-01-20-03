@@ -1,0 +1,4 @@
+[2017-01-20 03:12:38,036] DEBUG preRegister called. Server=com.sun.jmx.mbeanserver.JmxMBeanServer@66d3c617, name=log4j:logger=state.change.logger (state.change.logger)
+[2017-01-20 03:17:55,347] DEBUG preRegister called. Server=com.sun.jmx.mbeanserver.JmxMBeanServer@66d3c617, name=log4j:logger=state.change.logger (state.change.logger)
+[2017-01-20 03:25:14,045] TRACE Controller 0 epoch 1 received response {error_code=0} for a request sent to broker 192.168.0.13:9092 (id: 0 rack: null) (state.change.logger)
+[2017-01-20 03:31:45,403] TRACE Controller 0 epoch 2 received response {error_code=0} for a request sent to broker 192.168.0.13:9092 (id: 0 rack: null) (state.change.logger)

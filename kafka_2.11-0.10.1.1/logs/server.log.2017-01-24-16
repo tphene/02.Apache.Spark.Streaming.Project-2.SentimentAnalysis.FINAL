@@ -1,0 +1,7 @@
+[2017-01-24 16:02:28,025] INFO Creating /brokers/ids/0 (is it secure? false) (kafka.utils.ZKCheckedEphemeral)
+[2017-01-24 16:02:28,977] INFO Result of znode creation is: OK (kafka.utils.ZKCheckedEphemeral)
+[2017-01-24 16:56:31,021] INFO Registered broker 0 at path /brokers/ids/0 with addresses: PLAINTEXT -> EndPoint(192.168.0.13,9092,PLAINTEXT) (kafka.utils.ZkUtils)
+[2017-01-24 16:56:31,021] INFO done re-registering broker (kafka.server.KafkaHealthcheck$SessionExpireListener)
+[2017-01-24 16:56:31,021] INFO Subscribing to /brokers/topics path to watch for new topics (kafka.server.KafkaHealthcheck$SessionExpireListener)
+[2017-01-24 16:56:31,502] INFO [ReplicaFetcherManager on broker 0] Removed fetcher for partitions twitterstream-0 (kafka.server.ReplicaFetcherManager)
+[2017-01-24 16:56:31,506] INFO New leader is 0 (kafka.server.ZookeeperLeaderElector$LeaderChangeListener)

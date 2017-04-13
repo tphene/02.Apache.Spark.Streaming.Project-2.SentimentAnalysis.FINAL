@@ -1,0 +1,2 @@
+[2017-01-24 05:21:21,039] INFO Creating /brokers/ids/0 (is it secure? false) (kafka.utils.ZKCheckedEphemeral)
+[2017-01-24 05:21:21,041] INFO Result of znode creation is: OK (kafka.utils.ZKCheckedEphemeral)

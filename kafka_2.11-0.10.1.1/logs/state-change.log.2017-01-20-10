@@ -1,0 +1,2 @@
+[2017-01-20 10:49:12,022] TRACE Controller 0 epoch 14 received response {error_code=0} for a request sent to broker 192.168.0.13:9092 (id: 0 rack: null) (state.change.logger)
+[2017-01-20 10:54:12,000] TRACE Controller 0 epoch 15 received response {error_code=0} for a request sent to broker 192.168.0.13:9092 (id: 0 rack: null) (state.change.logger)
